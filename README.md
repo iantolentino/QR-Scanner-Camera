@@ -2,7 +2,7 @@
 
 ## Overview
 The Attendance Tracker is a Python-based employee attendance system that utilizes QR code scanning to log check-in and check-out times. It features a Tkinter-based user interface and stores attendance records in JSON and Excel formats.
-
+ 
 ## Features
 - **QR Code Scanning**: Uses OpenCV to detect and decode QR codes containing employee information.
 - **Automated Check-in/Check-out**: Employees scan their unique QR codes to register attendance.
