@@ -9,7 +9,7 @@ import os
 import winsound  # Import for sound effects
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font
-from tkinter import PhotoImage
+from tkinter import PhotoImage 
 
 class AttendanceScanner:
     def __init__(self):
